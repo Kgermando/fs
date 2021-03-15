@@ -1,0 +1,1724 @@
+[
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "auth",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "login_view",
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "isExtraImport": true,
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "register_view",
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "isExtraImport": true,
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "logout_view",
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "isExtraImport": true,
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "tinymce.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tinymce.models",
+        "description": "tinymce.models",
+        "detail": "tinymce.models",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "ContactForm",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "ContactForm",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "pre_save",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
+        "documentation": {}
+    },
+    {
+        "label": "pre_save",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
+        "documentation": {}
+    },
+    {
+        "label": "HTMLField",
+        "importPath": "tinymce",
+        "description": "tinymce",
+        "isExtraImport": true,
+        "detail": "tinymce",
+        "documentation": {}
+    },
+    {
+        "label": "unique_slug_generator",
+        "importPath": "fastsmart.utils",
+        "description": "fastsmart.utils",
+        "isExtraImport": true,
+        "detail": "fastsmart.utils",
+        "documentation": {}
+    },
+    {
+        "label": "unique_slug_generator_categorie",
+        "importPath": "fastsmart.utils",
+        "description": "fastsmart.utils",
+        "isExtraImport": true,
+        "detail": "fastsmart.utils",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "importPath": "categorie.models",
+        "description": "categorie.models",
+        "isExtraImport": true,
+        "detail": "categorie.models",
+        "documentation": {}
+    },
+    {
+        "label": "MotCles",
+        "importPath": "categorie.models",
+        "description": "categorie.models",
+        "isExtraImport": true,
+        "detail": "categorie.models",
+        "documentation": {}
+    },
+    {
+        "label": "Theme",
+        "importPath": "categorie.models",
+        "description": "categorie.models",
+        "isExtraImport": true,
+        "detail": "categorie.models",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "importPath": "categorie.models",
+        "description": "categorie.models",
+        "isExtraImport": true,
+        "detail": "categorie.models",
+        "documentation": {}
+    },
+    {
+        "label": "MotCles",
+        "importPath": "categorie.models",
+        "description": "categorie.models",
+        "isExtraImport": true,
+        "detail": "categorie.models",
+        "documentation": {}
+    },
+    {
+        "label": "Theme",
+        "importPath": "categorie.models",
+        "description": "categorie.models",
+        "isExtraImport": true,
+        "detail": "categorie.models",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "importPath": "categorie.models",
+        "description": "categorie.models",
+        "isExtraImport": true,
+        "detail": "categorie.models",
+        "documentation": {}
+    },
+    {
+        "label": "MotCles",
+        "importPath": "categorie.models",
+        "description": "categorie.models",
+        "isExtraImport": true,
+        "detail": "categorie.models",
+        "documentation": {}
+    },
+    {
+        "label": "Theme",
+        "importPath": "categorie.models",
+        "description": "categorie.models",
+        "isExtraImport": true,
+        "detail": "categorie.models",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "importPath": "app.views",
+        "description": "app.views",
+        "isExtraImport": true,
+        "detail": "app.views",
+        "documentation": {}
+    },
+    {
+        "label": "view",
+        "importPath": "app.views",
+        "description": "app.views",
+        "isExtraImport": true,
+        "detail": "app.views",
+        "documentation": {}
+    },
+    {
+        "label": "contact",
+        "importPath": "app.views",
+        "description": "app.views",
+        "isExtraImport": true,
+        "detail": "app.views",
+        "documentation": {}
+    },
+    {
+        "label": "Q",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponseRedirect",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "send_mail",
+        "importPath": "django.core.mail",
+        "description": "django.core.mail",
+        "isExtraImport": true,
+        "detail": "django.core.mail",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "user_passes_test",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "cart",
+        "importPath": "cart.views",
+        "description": "cart.views",
+        "isExtraImport": true,
+        "detail": "cart.views",
+        "documentation": {}
+    },
+    {
+        "label": "categorie",
+        "importPath": "categorie.views",
+        "description": "categorie.views",
+        "isExtraImport": true,
+        "detail": "categorie.views",
+        "documentation": {}
+    },
+    {
+        "label": "categorie",
+        "importPath": "categorie.views",
+        "description": "categorie.views",
+        "isExtraImport": true,
+        "detail": "categorie.views",
+        "documentation": {}
+    },
+    {
+        "label": "CATEGORIES",
+        "importPath": "fastsmart.constant",
+        "description": "fastsmart.constant",
+        "isExtraImport": true,
+        "detail": "fastsmart.constant",
+        "documentation": {}
+    },
+    {
+        "label": "CATEGORIES_THEME",
+        "importPath": "fastsmart.constant",
+        "description": "fastsmart.constant",
+        "isExtraImport": true,
+        "detail": "fastsmart.constant",
+        "documentation": {}
+    },
+    {
+        "label": "CATEGORIES_MOT_CLE",
+        "importPath": "fastsmart.constant",
+        "description": "fastsmart.constant",
+        "isExtraImport": true,
+        "detail": "fastsmart.constant",
+        "documentation": {}
+    },
+    {
+        "label": "EmptyPage",
+        "importPath": "django.core.paginator",
+        "description": "django.core.paginator",
+        "isExtraImport": true,
+        "detail": "django.core.paginator",
+        "documentation": {}
+    },
+    {
+        "label": "PageNotAnInteger",
+        "importPath": "django.core.paginator",
+        "description": "django.core.paginator",
+        "isExtraImport": true,
+        "detail": "django.core.paginator",
+        "documentation": {}
+    },
+    {
+        "label": "Paginator",
+        "importPath": "django.core.paginator",
+        "description": "django.core.paginator",
+        "isExtraImport": true,
+        "detail": "django.core.paginator",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "string",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "string",
+        "description": "string",
+        "detail": "string",
+        "documentation": {}
+    },
+    {
+        "label": "slugify",
+        "importPath": "django.utils.text",
+        "description": "django.utils.text",
+        "isExtraImport": true,
+        "detail": "django.utils.text",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "RequestContext",
+        "importPath": "django.template",
+        "description": "django.template",
+        "isExtraImport": true,
+        "detail": "django.template",
+        "documentation": {}
+    },
+    {
+        "label": "page_not_found",
+        "importPath": "django.views.defaults",
+        "description": "django.views.defaults",
+        "isExtraImport": true,
+        "detail": "django.views.defaults",
+        "documentation": {}
+    },
+    {
+        "label": "projets",
+        "importPath": "projets.views",
+        "description": "projets.views",
+        "isExtraImport": true,
+        "detail": "projets.views",
+        "documentation": {}
+    },
+    {
+        "label": "warnings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "warnings",
+        "description": "warnings",
+        "detail": "warnings",
+        "documentation": {}
+    },
+    {
+        "label": "management",
+        "importPath": "django.core",
+        "description": "django.core",
+        "isExtraImport": true,
+        "detail": "django.core",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "pformat",
+        "importPath": "pprint",
+        "description": "pprint",
+        "isExtraImport": true,
+        "detail": "pprint",
+        "documentation": {}
+    },
+    {
+        "label": "jmespath",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "jmespath",
+        "description": "jmespath",
+        "detail": "jmespath",
+        "documentation": {}
+    },
+    {
+        "label": "exceptions",
+        "importPath": "jmespath",
+        "description": "jmespath",
+        "isExtraImport": true,
+        "detail": "jmespath",
+        "documentation": {}
+    },
+    {
+        "label": "admin.site.site_header",
+        "kind": 5,
+        "importPath": "accounts.admin",
+        "description": "accounts.admin",
+        "peekOfCode": "admin.site.site_header = 'CCNSC-RDC ADMIN'\nadmin.site.site_title = \"Interface d'administration des comptes\"\n# Register your models here.",
+        "detail": "accounts.admin",
+        "documentation": {}
+    },
+    {
+        "label": "admin.site.site_title",
+        "kind": 5,
+        "importPath": "accounts.admin",
+        "description": "accounts.admin",
+        "peekOfCode": "admin.site.site_title = \"Interface d'administration des comptes\"\n# Register your models here.",
+        "detail": "accounts.admin",
+        "documentation": {}
+    },
+    {
+        "label": "AccountsConfig",
+        "kind": 6,
+        "importPath": "accounts.apps",
+        "description": "accounts.apps",
+        "peekOfCode": "class AccountsConfig(AppConfig):\n    name = 'accounts'",
+        "detail": "accounts.apps",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "accounts.urls",
+        "description": "accounts.urls",
+        "peekOfCode": "urlpatterns = [\n    path('login/', login_view, name='login'),\n    path('register/', register_view, name='register'), \n    path('logout/', logout_view, name='logout'),\n]",
+        "detail": "accounts.urls",
+        "documentation": {}
+    },
+    {
+        "label": "login_view",
+        "kind": 2,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "def login_view(request):\n    if request.method == 'POST':\n        username = request.POST['username']\n        password = request.POST['password']\n        user = auth.authenticate(username=username, password=password)\n        if user is not None:\n            auth.login(request, user)\n            messages.success(request,\"! vous êtes authentifiés!! .\")\n            return redirect('cart:cart')\n        else:",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "register_view",
+        "kind": 2,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "def register_view(request):\n    if request.method == 'POST':\n        # Get form vales\n        first_name = request.POST['first_name']\n        last_name = request.POST['last_name']\n        username = request.POST['username']\n        email = request.POST['email']\n        # statut = request.POST['statut']\n        password = request.POST['password']\n        password2 = request.POST['password2']",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "logout_view",
+        "kind": 2,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "def logout_view(request):\n    if request.method == 'GET':\n        auth.logout(request)\n        messages.success(request, \"Vous êtes déconnecté.\")\n        return redirect('login')\n    else:\n        return redirect('app:home')",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "app.migrations.0001_initial",
+        "description": "app.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('categorie', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='ContactForm',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "app.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "kind": 6,
+        "importPath": "app.apps",
+        "description": "app.apps",
+        "peekOfCode": "class AppConfig(AppConfig):\n    name = 'app'",
+        "detail": "app.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class Product(models.Model):\n    title       = models.CharField(max_length=50, db_index=True)\n    slug        = models.SlugField(blank=True, unique=True, help_text='Laissez ce champ vide')\n    img         = models.ImageField(upload_to='produit_img/')\n    img2        = models.ImageField(upload_to='produit_img/')\n    img3        = models.ImageField(upload_to='produit_img/')\n    img4        = models.ImageField(upload_to='produit_img/')\n    resume      = models.CharField(max_length=100)\n    description = HTMLField('description')\n    prix        = models.IntegerField()",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "ContactForm",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class ContactForm(models.Model):\n    name    = models.CharField(max_length=50)\n    email   = models.EmailField()\n    message = models.TextField()\n    def __str__(self):\n        return self.name\ndef tag_pre_save_receiver(sender, instance, *args, **kwargs):\n    if not instance.slug:\n        instance.slug = unique_slug_generator(instance)\npre_save.connect(tag_pre_save_receiver, sender=Product)",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "tag_pre_save_receiver",
+        "kind": 2,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "def tag_pre_save_receiver(sender, instance, *args, **kwargs):\n    if not instance.slug:\n        instance.slug = unique_slug_generator(instance)\npre_save.connect(tag_pre_save_receiver, sender=Product)",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "app_name",
+        "kind": 5,
+        "importPath": "app.urls",
+        "description": "app.urls",
+        "peekOfCode": "app_name = 'app'\nurlpatterns = [\n    path('', index, name=\"home\"),\n    path('product/<slug:slug>/', view, name=\"view\"),\n    path('product/<int:id>/', view, name=\"search-view\"),\n    path('contact/', contact, name=\"contact\"),\n]",
+        "detail": "app.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "app.urls",
+        "description": "app.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', index, name=\"home\"),\n    path('product/<slug:slug>/', view, name=\"view\"),\n    path('product/<int:id>/', view, name=\"search-view\"),\n    path('contact/', contact, name=\"contact\"),\n]",
+        "detail": "app.urls",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "app.views",
+        "description": "app.views",
+        "peekOfCode": "def index(request):\n    query = request.GET.get('q', '')\n    #The empty string handles an empty \"request\"\n    if query:\n            queryset = (\n                Q(title__icontains=query) | \n                Q(resume__icontains=query) | \n                Q(description__icontains=query) | \n                Q(prix__icontains=query) |\n                Q(rate__icontains=query) |",
+        "detail": "app.views",
+        "documentation": {}
+    },
+    {
+        "label": "view",
+        "kind": 2,
+        "importPath": "app.views",
+        "description": "app.views",
+        "peekOfCode": "def view(request, slug):\n    \"\"\"\n        Search detail\n    \"\"\"\n    product = get_object_or_404(Product, slug=slug)\n    product_list = Product.objects.all().order_by('-created')[:3]\n    product.page_views = product.page_views + 1\n    product.save()\n    context = {\n        'product': product,",
+        "detail": "app.views",
+        "documentation": {}
+    },
+    {
+        "label": "contact",
+        "kind": 2,
+        "importPath": "app.views",
+        "description": "app.views",
+        "peekOfCode": "def contact(request):\n    if  request.method == 'POST':\n        name = request.POST['name']\n        email = request.POST['email']\n        message = request.POST['message']\n        contact_us = ContactForm(name=name,email=email,message=message)\n        contact_us.save()\n        messages.success(request,'! Nous avons réçu votre message')\n        return redirect('app:contact')\n    context = None",
+        "detail": "app.views",
+        "documentation": {}
+    },
+    {
+        "label": "CartConfig",
+        "kind": 6,
+        "importPath": "cart.apps",
+        "description": "cart.apps",
+        "peekOfCode": "class CartConfig(AppConfig):\n    name = 'cart'",
+        "detail": "cart.apps",
+        "documentation": {}
+    },
+    {
+        "label": "app_name",
+        "kind": 5,
+        "importPath": "cart.urls",
+        "description": "cart.urls",
+        "peekOfCode": "app_name = 'cart'\nurlpatterns = [\n    path('', cart, name='cart'),\n]",
+        "detail": "cart.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "cart.urls",
+        "description": "cart.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', cart, name='cart'),\n]",
+        "detail": "cart.urls",
+        "documentation": {}
+    },
+    {
+        "label": "cart",
+        "kind": 2,
+        "importPath": "cart.views",
+        "description": "cart.views",
+        "peekOfCode": "def cart(request):\n    context = {}\n    template_name = 'pages/cart/cart.html'\n    return render(request, template_name, context)",
+        "detail": "cart.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "categorie.migrations.0001_initial",
+        "description": "categorie.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Category',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(choices=[('WEBSITE', 'WEBSITE'), ('SOFTWARE', 'SOFTWARE'), ('MOBILE', 'MOBILE'), ('WEBAPP', 'WEBAPP')], max_length=8)),",
+        "detail": "categorie.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "CategorieConfig",
+        "kind": 6,
+        "importPath": "categorie.apps",
+        "description": "categorie.apps",
+        "peekOfCode": "class CategorieConfig(AppConfig):\n    name = 'categorie'",
+        "detail": "categorie.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "kind": 6,
+        "importPath": "categorie.models",
+        "description": "categorie.models",
+        "peekOfCode": "class Category(models.Model):\n    name = models.CharField(max_length=8, choices=CATEGORIES)\n    slug = models.SlugField(blank=True, unique=True, help_text='Laissez ce champ vide')\n    class Meta:\n        verbose_name = 'category'\n        verbose_name_plural = 'categories'\n    def __str__(self):\n        return self.name\n    def get_absolute_url(self):\n        from django.urls import reverse",
+        "detail": "categorie.models",
+        "documentation": {}
+    },
+    {
+        "label": "MotCles",
+        "kind": 6,
+        "importPath": "categorie.models",
+        "description": "categorie.models",
+        "peekOfCode": "class MotCles(models.Model):\n    name = models.CharField(max_length=18, choices=CATEGORIES_MOT_CLE)\n    slug = models.SlugField(blank=True, unique=True, help_text='Laissez ce champ vide')\n    def __str__(self):\n        return self.name\n    # def get_absolute_url(self):\n    #     from django.urls import reverse\n    #     return reverse('categorie:motcle_slug', args=[self.slug])\nclass Theme(models.Model):\n    name = models.CharField(max_length=8, choices=CATEGORIES_THEME)",
+        "detail": "categorie.models",
+        "documentation": {}
+    },
+    {
+        "label": "Theme",
+        "kind": 6,
+        "importPath": "categorie.models",
+        "description": "categorie.models",
+        "peekOfCode": "class Theme(models.Model):\n    name = models.CharField(max_length=8, choices=CATEGORIES_THEME)\n    slug = models.SlugField(blank=True, unique=True, help_text='Laissez ce champ vide')\n    def __str__(self):\n        return self.name\n    # def get_absolute_url(self):\n    #     from django.urls import reverse\n    #     return reverse('categorie:theme_slug', args=[self.slug])\ndef tag_pre_save_receiver(sender, instance, *args, **kwargs):\n    if not instance.slug:",
+        "detail": "categorie.models",
+        "documentation": {}
+    },
+    {
+        "label": "tag_pre_save_receiver",
+        "kind": 2,
+        "importPath": "categorie.models",
+        "description": "categorie.models",
+        "peekOfCode": "def tag_pre_save_receiver(sender, instance, *args, **kwargs):\n    if not instance.slug:\n        instance.slug = unique_slug_generator_categorie(instance)\npre_save.connect(tag_pre_save_receiver, sender=Category)\npre_save.connect(tag_pre_save_receiver, sender=MotCles)\npre_save.connect(tag_pre_save_receiver, sender=Theme)",
+        "detail": "categorie.models",
+        "documentation": {}
+    },
+    {
+        "label": "app_name",
+        "kind": 5,
+        "importPath": "categorie.urls",
+        "description": "categorie.urls",
+        "peekOfCode": "app_name = 'categorie'\nurlpatterns = [\n    path('', categorie, name=\"categorie\"),\n    path('<product_slug>/', categorie, name='categorie_slug'),\n    # path('<motcle_slug>/', motcle_view, name='motcle_slug'),\n    # path('<theme_slug>/', theme_view, name='theme_slug'),\n]",
+        "detail": "categorie.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "categorie.urls",
+        "description": "categorie.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', categorie, name=\"categorie\"),\n    path('<product_slug>/', categorie, name='categorie_slug'),\n    # path('<motcle_slug>/', motcle_view, name='motcle_slug'),\n    # path('<theme_slug>/', theme_view, name='theme_slug'),\n]",
+        "detail": "categorie.urls",
+        "documentation": {}
+    },
+    {
+        "label": "categorie",
+        "kind": 2,
+        "importPath": "categorie.views",
+        "description": "categorie.views",
+        "peekOfCode": "def categorie(request, product_slug=None):\n    product_promos = Product.objects.filter(promos=True)\n    category = None\n    category_list = Category.objects.all()\n    products = Product.objects.all()\n    if product_slug:\n        category = get_object_or_404(Category, slug=product_slug)\n        products = products.filter(categorie=category)\n    paginator = Paginator(products, 12)\n    page = request.GET.get('page')",
+        "detail": "categorie.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "fastsmart.asgi",
+        "description": "fastsmart.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "fastsmart.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "CATEGORIES",
+        "kind": 5,
+        "importPath": "fastsmart.constant",
+        "description": "fastsmart.constant",
+        "peekOfCode": "CATEGORIES = [\n    ('WEBSITE', 'WEBSITE'),\n    ('SOFTWARE', 'SOFTWARE'),\n    ('MOBILE', 'MOBILE'),\n    ('WEBAPP', 'WEBAPP'),\n]\nCATEGORIES_THEME = [\n    ('CLAIRE', 'CLAIRE'),\n    ('CLASSIC', 'CLASSIC'),\n    ('SOMBRE', 'SOMBRE'),",
+        "detail": "fastsmart.constant",
+        "documentation": {}
+    },
+    {
+        "label": "CATEGORIES_THEME",
+        "kind": 5,
+        "importPath": "fastsmart.constant",
+        "description": "fastsmart.constant",
+        "peekOfCode": "CATEGORIES_THEME = [\n    ('CLAIRE', 'CLAIRE'),\n    ('CLASSIC', 'CLASSIC'),\n    ('SOMBRE', 'SOMBRE'),\n]\nCATEGORIES_MOT_CLE = [\n    ('SANTE', 'SANTE'),\n    ('EDUCATION', 'EDUCATION'),\n    ('BUSINESS', 'BUSINESS'),\n    ('AGRICULTURE', 'AGRICULTURE'),",
+        "detail": "fastsmart.constant",
+        "documentation": {}
+    },
+    {
+        "label": "CATEGORIES_MOT_CLE",
+        "kind": 5,
+        "importPath": "fastsmart.constant",
+        "description": "fastsmart.constant",
+        "peekOfCode": "CATEGORIES_MOT_CLE = [\n    ('SANTE', 'SANTE'),\n    ('EDUCATION', 'EDUCATION'),\n    ('BUSINESS', 'BUSINESS'),\n    ('AGRICULTURE', 'AGRICULTURE'),\n    ('iNDUSTRIE', 'iNDUSTRIE'),\n    ('TELECOMMUNICATION', 'TELECOMMUNICATION'),\n    ('MEDIA', 'MEDIA'),\n    ('E-COMMERCE', 'E-COMMERCE'),\n    ('EVENEMENT', 'EVENEMENT'),",
+        "detail": "fastsmart.constant",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "fastsmart.settings",
+        "description": "fastsmart.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'c%n&xt_dn$f+eo@9q0l#(3&79#9#%u683d-ri4*o+x#na^!&fd'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "fastsmart.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "fastsmart.settings",
+        "description": "fastsmart.settings",
+        "peekOfCode": "SECRET_KEY = 'c%n&xt_dn$f+eo@9q0l#(3&79#9#%u683d-ri4*o+x#na^!&fd'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "fastsmart.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "fastsmart.settings",
+        "description": "fastsmart.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "fastsmart.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "fastsmart.settings",
+        "description": "fastsmart.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'django.contrib.sites',",
+        "detail": "fastsmart.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "fastsmart.settings",
+        "description": "fastsmart.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'django.contrib.sites',\n    # External Apps\n    'tinymce',",
+        "detail": "fastsmart.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SITE_ID",
+        "kind": 5,
+        "importPath": "fastsmart.settings",
+        "description": "fastsmart.settings",
+        "peekOfCode": "SITE_ID = 1\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]",
+        "detail": "fastsmart.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "fastsmart.settings",
+        "description": "fastsmart.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'fastsmart.urls'",
+        "detail": "fastsmart.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "fastsmart.settings",
+        "description": "fastsmart.settings",
+        "peekOfCode": "ROOT_URLCONF = 'fastsmart.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [BASE_DIR / 'templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "fastsmart.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "fastsmart.settings",
+        "description": "fastsmart.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [BASE_DIR / 'templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "fastsmart.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "fastsmart.settings",
+        "description": "fastsmart.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'fastsmart.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# if DEBUG == True:",
+        "detail": "fastsmart.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "fastsmart.settings",
+        "description": "fastsmart.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# if DEBUG == True:\n#     DATABASES = {\n#         'default': {\n#             'ENGINE': 'django.db.backends.sqlite3',",
+        "detail": "fastsmart.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "fastsmart.settings",
+        "description": "fastsmart.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "fastsmart.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "fastsmart.settings",
+        "description": "fastsmart.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'Africa/Kinshasa'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, \"static\")]\nSTATIC_ROOT = os.path.join(BASE_DIR, \"static_root\")",
+        "detail": "fastsmart.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "fastsmart.settings",
+        "description": "fastsmart.settings",
+        "peekOfCode": "TIME_ZONE = 'Africa/Kinshasa'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, \"static\")]\nSTATIC_ROOT = os.path.join(BASE_DIR, \"static_root\")\nSTATICFILES_FINDERS = (",
+        "detail": "fastsmart.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "fastsmart.settings",
+        "description": "fastsmart.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, \"static\")]\nSTATIC_ROOT = os.path.join(BASE_DIR, \"static_root\")\nSTATICFILES_FINDERS = (\n    'django.contrib.staticfiles.finders.FileSystemFinder',",
+        "detail": "fastsmart.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "fastsmart.settings",
+        "description": "fastsmart.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, \"static\")]\nSTATIC_ROOT = os.path.join(BASE_DIR, \"static_root\")\nSTATICFILES_FINDERS = (\n    'django.contrib.staticfiles.finders.FileSystemFinder',\n    'django.contrib.staticfiles.finders.AppDirectoriesFinder',",
+        "detail": "fastsmart.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "fastsmart.settings",
+        "description": "fastsmart.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, \"static\")]\nSTATIC_ROOT = os.path.join(BASE_DIR, \"static_root\")\nSTATICFILES_FINDERS = (\n    'django.contrib.staticfiles.finders.FileSystemFinder',\n    'django.contrib.staticfiles.finders.AppDirectoriesFinder',\n)",
+        "detail": "fastsmart.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "fastsmart.settings",
+        "description": "fastsmart.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, \"static\")]\nSTATIC_ROOT = os.path.join(BASE_DIR, \"static_root\")\nSTATICFILES_FINDERS = (\n    'django.contrib.staticfiles.finders.FileSystemFinder',\n    'django.contrib.staticfiles.finders.AppDirectoriesFinder',\n)\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media-root')\n# Email",
+        "detail": "fastsmart.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "fastsmart.settings",
+        "description": "fastsmart.settings",
+        "peekOfCode": "STATICFILES_DIRS = [os.path.join(BASE_DIR, \"static\")]\nSTATIC_ROOT = os.path.join(BASE_DIR, \"static_root\")\nSTATICFILES_FINDERS = (\n    'django.contrib.staticfiles.finders.FileSystemFinder',\n    'django.contrib.staticfiles.finders.AppDirectoriesFinder',\n)\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media-root')\n# Email\nEMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'",
+        "detail": "fastsmart.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": "fastsmart.settings",
+        "description": "fastsmart.settings",
+        "peekOfCode": "STATIC_ROOT = os.path.join(BASE_DIR, \"static_root\")\nSTATICFILES_FINDERS = (\n    'django.contrib.staticfiles.finders.FileSystemFinder',\n    'django.contrib.staticfiles.finders.AppDirectoriesFinder',\n)\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media-root')\n# Email\nEMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'\nEMAIL_HOST = 'smtp.qq.com'",
+        "detail": "fastsmart.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_FINDERS",
+        "kind": 5,
+        "importPath": "fastsmart.settings",
+        "description": "fastsmart.settings",
+        "peekOfCode": "STATICFILES_FINDERS = (\n    'django.contrib.staticfiles.finders.FileSystemFinder',\n    'django.contrib.staticfiles.finders.AppDirectoriesFinder',\n)\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media-root')\n# Email\nEMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'\nEMAIL_HOST = 'smtp.qq.com'\nEMAIL_PORT = 25",
+        "detail": "fastsmart.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "fastsmart.settings",
+        "description": "fastsmart.settings",
+        "peekOfCode": "MEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media-root')\n# Email\nEMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'\nEMAIL_HOST = 'smtp.qq.com'\nEMAIL_PORT = 25\nEMAIL_HOST_USER = '@qq.com'\nEMAIL_HOST_PASSWORD = ''\nEMAIL_USE_TLS = True\nEMAIL_FROM = '@qq.com'",
+        "detail": "fastsmart.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "fastsmart.settings",
+        "description": "fastsmart.settings",
+        "peekOfCode": "MEDIA_ROOT = os.path.join(BASE_DIR, 'media-root')\n# Email\nEMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'\nEMAIL_HOST = 'smtp.qq.com'\nEMAIL_PORT = 25\nEMAIL_HOST_USER = '@qq.com'\nEMAIL_HOST_PASSWORD = ''\nEMAIL_USE_TLS = True\nEMAIL_FROM = '@qq.com'",
+        "detail": "fastsmart.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_BACKEND",
+        "kind": 5,
+        "importPath": "fastsmart.settings",
+        "description": "fastsmart.settings",
+        "peekOfCode": "EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'\nEMAIL_HOST = 'smtp.qq.com'\nEMAIL_PORT = 25\nEMAIL_HOST_USER = '@qq.com'\nEMAIL_HOST_PASSWORD = ''\nEMAIL_USE_TLS = True\nEMAIL_FROM = '@qq.com'",
+        "detail": "fastsmart.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST",
+        "kind": 5,
+        "importPath": "fastsmart.settings",
+        "description": "fastsmart.settings",
+        "peekOfCode": "EMAIL_HOST = 'smtp.qq.com'\nEMAIL_PORT = 25\nEMAIL_HOST_USER = '@qq.com'\nEMAIL_HOST_PASSWORD = ''\nEMAIL_USE_TLS = True\nEMAIL_FROM = '@qq.com'",
+        "detail": "fastsmart.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_PORT",
+        "kind": 5,
+        "importPath": "fastsmart.settings",
+        "description": "fastsmart.settings",
+        "peekOfCode": "EMAIL_PORT = 25\nEMAIL_HOST_USER = '@qq.com'\nEMAIL_HOST_PASSWORD = ''\nEMAIL_USE_TLS = True\nEMAIL_FROM = '@qq.com'",
+        "detail": "fastsmart.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_USER",
+        "kind": 5,
+        "importPath": "fastsmart.settings",
+        "description": "fastsmart.settings",
+        "peekOfCode": "EMAIL_HOST_USER = '@qq.com'\nEMAIL_HOST_PASSWORD = ''\nEMAIL_USE_TLS = True\nEMAIL_FROM = '@qq.com'",
+        "detail": "fastsmart.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_PASSWORD",
+        "kind": 5,
+        "importPath": "fastsmart.settings",
+        "description": "fastsmart.settings",
+        "peekOfCode": "EMAIL_HOST_PASSWORD = ''\nEMAIL_USE_TLS = True\nEMAIL_FROM = '@qq.com'",
+        "detail": "fastsmart.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_USE_TLS",
+        "kind": 5,
+        "importPath": "fastsmart.settings",
+        "description": "fastsmart.settings",
+        "peekOfCode": "EMAIL_USE_TLS = True\nEMAIL_FROM = '@qq.com'",
+        "detail": "fastsmart.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_FROM",
+        "kind": 5,
+        "importPath": "fastsmart.settings",
+        "description": "fastsmart.settings",
+        "peekOfCode": "EMAIL_FROM = '@qq.com'",
+        "detail": "fastsmart.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "fastsmart.urls",
+        "description": "fastsmart.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', include('app.urls')),\n    path('categorie/', include('categorie.urls')),\n    path('projets/', include('projets.urls')),\n    path('cart/', include('cart.urls')),\n    path('tinymce/', include('tinymce.urls')),\n    path('accounts/', include('accounts.urls')),\n    path('admin/', admin.site.urls),\n]\nif settings.DEBUG:",
+        "detail": "fastsmart.urls",
+        "documentation": {}
+    },
+    {
+        "label": "handler400",
+        "kind": 5,
+        "importPath": "fastsmart.urls",
+        "description": "fastsmart.urls",
+        "peekOfCode": "handler400 = 'handlers.views.handler400'\nhandler403 = 'handlers.views.handler403'\nhandler404 = 'handlers.views.handler404'\nhandler500 = 'handlers.views.handler500'",
+        "detail": "fastsmart.urls",
+        "documentation": {}
+    },
+    {
+        "label": "handler403",
+        "kind": 5,
+        "importPath": "fastsmart.urls",
+        "description": "fastsmart.urls",
+        "peekOfCode": "handler403 = 'handlers.views.handler403'\nhandler404 = 'handlers.views.handler404'\nhandler500 = 'handlers.views.handler500'",
+        "detail": "fastsmart.urls",
+        "documentation": {}
+    },
+    {
+        "label": "handler404",
+        "kind": 5,
+        "importPath": "fastsmart.urls",
+        "description": "fastsmart.urls",
+        "peekOfCode": "handler404 = 'handlers.views.handler404'\nhandler500 = 'handlers.views.handler500'",
+        "detail": "fastsmart.urls",
+        "documentation": {}
+    },
+    {
+        "label": "handler500",
+        "kind": 5,
+        "importPath": "fastsmart.urls",
+        "description": "fastsmart.urls",
+        "peekOfCode": "handler500 = 'handlers.views.handler500'",
+        "detail": "fastsmart.urls",
+        "documentation": {}
+    },
+    {
+        "label": "random_string_generator",
+        "kind": 2,
+        "importPath": "fastsmart.utils",
+        "description": "fastsmart.utils",
+        "peekOfCode": "def random_string_generator(size=10, chars=string.ascii_lowercase + string.digits):\n    return ''.join(random.choice(chars) for _ in range(size))\ndef unique_slug_generator(instance, new_slug=None):\n    if new_slug is not None:\n        slug = new_slug\n    else:\n        slug = slugify(instance.title)\n    Klass = instance.__class__\n    qs_exists = Klass.objects.filter(slug=slug).exists()\n    if qs_exists:",
+        "detail": "fastsmart.utils",
+        "documentation": {}
+    },
+    {
+        "label": "unique_slug_generator",
+        "kind": 2,
+        "importPath": "fastsmart.utils",
+        "description": "fastsmart.utils",
+        "peekOfCode": "def unique_slug_generator(instance, new_slug=None):\n    if new_slug is not None:\n        slug = new_slug\n    else:\n        slug = slugify(instance.title)\n    Klass = instance.__class__\n    qs_exists = Klass.objects.filter(slug=slug).exists()\n    if qs_exists:\n        new_slug = \"{slug}-{randomstr}\".format(\n            slug=slug,",
+        "detail": "fastsmart.utils",
+        "documentation": {}
+    },
+    {
+        "label": "unique_slug_generator_categorie",
+        "kind": 2,
+        "importPath": "fastsmart.utils",
+        "description": "fastsmart.utils",
+        "peekOfCode": "def unique_slug_generator_categorie(instance, new_slug=None):\n    if new_slug is not None:\n        slug = new_slug\n    else:\n        slug = slugify(instance.name)\n    Klass = instance.__class__\n    qs_exists = Klass.objects.filter(slug=slug).exists()\n    if qs_exists:\n        new_slug = \"{slug}-{randomstr}\".format(\n            slug=slug,",
+        "detail": "fastsmart.utils",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "fastsmart.wsgi",
+        "description": "fastsmart.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "fastsmart.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "HandlersConfig",
+        "kind": 6,
+        "importPath": "handlers.apps",
+        "description": "handlers.apps",
+        "peekOfCode": "class HandlersConfig(AppConfig):\n    name = 'handlers'",
+        "detail": "handlers.apps",
+        "documentation": {}
+    },
+    {
+        "label": "handler400",
+        "kind": 2,
+        "importPath": "handlers.views",
+        "description": "handlers.views",
+        "peekOfCode": "def handler400(request, exception):\n\treturn render(request,  template_name='error/400.html')\n\tresponse.status_code = 400\n\treturn response\n#Permission denied\ndef handler403(request, exception):\n\treturn render(request,  template_name='error/403.html')\n\tresponse.status_code = 403\n\treturn response\n#Page not found",
+        "detail": "handlers.views",
+        "documentation": {}
+    },
+    {
+        "label": "handler403",
+        "kind": 2,
+        "importPath": "handlers.views",
+        "description": "handlers.views",
+        "peekOfCode": "def handler403(request, exception):\n\treturn render(request,  template_name='error/403.html')\n\tresponse.status_code = 403\n\treturn response\n#Page not found\ndef handler404(request, exception):\n\treturn render(request,  template_name='error/404.html')\n\tresponse.status_code = 404\n\treturn response\n#Server error",
+        "detail": "handlers.views",
+        "documentation": {}
+    },
+    {
+        "label": "handler404",
+        "kind": 2,
+        "importPath": "handlers.views",
+        "description": "handlers.views",
+        "peekOfCode": "def handler404(request, exception):\n\treturn render(request,  template_name='error/404.html')\n\tresponse.status_code = 404\n\treturn response\n#Server error\ndef handler500(request):\n\treturn render(request,  template_name='error/500.html')\n\tresponse.status_code = 500\n\treturn response",
+        "detail": "handlers.views",
+        "documentation": {}
+    },
+    {
+        "label": "handler500",
+        "kind": 2,
+        "importPath": "handlers.views",
+        "description": "handlers.views",
+        "peekOfCode": "def handler500(request):\n\treturn render(request,  template_name='error/500.html')\n\tresponse.status_code = 500\n\treturn response",
+        "detail": "handlers.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tresponse.status_code",
+        "kind": 5,
+        "importPath": "handlers.views",
+        "description": "handlers.views",
+        "peekOfCode": "\tresponse.status_code = 400\n\treturn response\n#Permission denied\ndef handler403(request, exception):\n\treturn render(request,  template_name='error/403.html')\n\tresponse.status_code = 403\n\treturn response\n#Page not found\ndef handler404(request, exception):\n\treturn render(request,  template_name='error/404.html')",
+        "detail": "handlers.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tresponse.status_code",
+        "kind": 5,
+        "importPath": "handlers.views",
+        "description": "handlers.views",
+        "peekOfCode": "\tresponse.status_code = 403\n\treturn response\n#Page not found\ndef handler404(request, exception):\n\treturn render(request,  template_name='error/404.html')\n\tresponse.status_code = 404\n\treturn response\n#Server error\ndef handler500(request):\n\treturn render(request,  template_name='error/500.html')",
+        "detail": "handlers.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tresponse.status_code",
+        "kind": 5,
+        "importPath": "handlers.views",
+        "description": "handlers.views",
+        "peekOfCode": "\tresponse.status_code = 404\n\treturn response\n#Server error\ndef handler500(request):\n\treturn render(request,  template_name='error/500.html')\n\tresponse.status_code = 500\n\treturn response",
+        "detail": "handlers.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tresponse.status_code",
+        "kind": 5,
+        "importPath": "handlers.views",
+        "description": "handlers.views",
+        "peekOfCode": "\tresponse.status_code = 500\n\treturn response",
+        "detail": "handlers.views",
+        "documentation": {}
+    },
+    {
+        "label": "ProjetsConfig",
+        "kind": 6,
+        "importPath": "projets.apps",
+        "description": "projets.apps",
+        "peekOfCode": "class ProjetsConfig(AppConfig):\n    name = 'projets'",
+        "detail": "projets.apps",
+        "documentation": {}
+    },
+    {
+        "label": "app_name",
+        "kind": 5,
+        "importPath": "projets.urls",
+        "description": "projets.urls",
+        "peekOfCode": "app_name = 'projets'\nurlpatterns = [\n    path('', projets, name='projets'),\n]",
+        "detail": "projets.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "projets.urls",
+        "description": "projets.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', projets, name='projets'),\n]",
+        "detail": "projets.urls",
+        "documentation": {}
+    },
+    {
+        "label": "projets",
+        "kind": 2,
+        "importPath": "projets.views",
+        "description": "projets.views",
+        "peekOfCode": "def projets(request):\n    context = {}\n    template_name = 'pages/projets/projets.html'\n    return render(request, template_name, context)",
+        "detail": "projets.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "venvfs.Scripts.jp",
+        "description": "venvfs.Scripts.jp",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser()\n    parser.add_argument('expression')\n    parser.add_argument('-f', '--filename',\n                        help=('The filename containing the input data.  '\n                              'If a filename is not given then data is '\n                              'read from stdin.'))\n    parser.add_argument('--ast', action='store_true',\n                        help=('Pretty print the AST, do not search the data.'))\n    args = parser.parse_args()",
+        "detail": "venvfs.Scripts.jp",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'fastsmart.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]

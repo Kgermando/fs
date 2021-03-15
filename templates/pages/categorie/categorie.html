@@ -1,0 +1,194 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}Categories{% endblock title %}
+
+
+{% block content %}
+
+<!-- Breadcrumb Section Begin -->
+<section class="breadcrumb-section set-bg" data-setbg="{% static 'img/webevent.png' %} ">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <div class="breadcrumb__text">
+                    <h2>Categories</h2>
+                    <div class="breadcrumb__option">
+                        <a href="{% url 'app:home' %}">Accueil</a>
+                        <span>Categories</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Breadcrumb Section End -->
+
+<!-- Product Section Begin -->
+<section class="product spad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-md-5">
+                <div class="sidebar">
+                    <div class="sidebar__item">
+                        <h4>Materiels</h4>
+
+                        <div class="sidebar__item__size" {% if not category %} class="selected" {% endif %}>
+                            <a href="{% url 'categorie:categorie' %}">ALL
+                                <label for="large"></label>
+                            </a>
+                        </div>
+                        {% for c in category_list %}
+                        <div class="sidebar__item__size"  {% if category.slug == c.slug %} class="selected" {% endif %}>
+                            <a href="{{ c.get_absolute_url }}"> {{ c.name }}
+                                <label for="large"></label>  
+                            </a>
+                        </div>
+                        {% endfor %}
+
+                    </div>
+
+                    
+                    <div class="sidebar__item">
+                        <h4>Prix</h4>
+                        <div class="price-range-wrap">
+                            <div class="price-range ui-slider ui-corner-all ui-slider-horizontal ui-widget ui-widget-content"
+                                data-min="10" data-max="540">
+                                <div class="ui-slider-range ui-corner-all ui-widget-header"></div>
+                                <span tabindex="0" class="ui-slider-handle ui-corner-all ui-state-default"></span>
+                                <span tabindex="0" class="ui-slider-handle ui-corner-all ui-state-default"></span>
+                            </div>
+                            <div class="range-slider">
+                                <div class="price-input">
+                                    <input type="text" id="minamount">
+                                    <input type="text" id="maxamount">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    
+                    <!-- <div class="sidebar__item sidebar__item__color--option">
+                        <h4>Themes</h4>
+                        <div {% if not theme %} {% endif %} class="sidebar__item__color sidebar__item__color--classic">
+                            <a id="classic" href="{% url 'categorie:categorie' %}">Classic
+                                <label for="classic"></label>
+                            </a>
+                        </div>
+                        {% for c in Theme_list %}
+                        <div class="sidebar__item__color sidebar__item__color--{{ c.slug }}" {% if theme.slug == c.slug %} {% endif %}>
+                            <a id="{{ c.slug }}" href="{{ c.get_absolute_url }}">{{ c.slug | capfirst }}
+                                <label for="{{ c.slug }}"></label>
+                            </a>
+                        </div>
+                        {% endfor %}
+                    </div>
+
+
+                    <div class="sidebar__item">
+                        <h4>Mots clés</h4>
+                        <ul>
+                            <li {% if not motcle %} class="selected" {% endif %}>
+                                <a href="{% url 'categorie:categorie' %}">All</a>
+                            </li>
+                            {% for c in motcle_list %}
+                            <li {% if motcle.slug == c.slug %} class="selected" {% endif %}>
+                                <a href="{{ c.get_absolute_url }}">{{ c.name }}</a>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </div> -->
+                    
+                    
+                </div>
+            </div>
+            <div class="col-lg-9 col-md-7">
+                <div class="product__discount">
+                    <div class="section-title product__discount__title">
+                        <h2>Promotions</h2>
+                    </div>
+                    <div class="row">
+                        <div class="product__discount__slider owl-carousel">
+                            
+                            {% for product in product_promos %}
+                                <div class="col-lg-4">
+                                    <div class="product__discount__item">
+                                        <div class="product__discount__item__pic set-bg"
+                                            data-setbg="{{ product.img.url }}">
+                                            <div class="product__discount__percent">-{{ product.promotion }} %</div>
+                                            <ul class="product__item__pic__hover">
+                                                <li><a href="#"><i class="fa fa-heart"></i></a></li>
+                                                <li><a href="#"><i class="fa fa-retweet"></i></a></li>
+                                                <li><a href="#"><i class="fa fa-shopping-cart"></i></a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="product__discount__item__text">
+                                            <span>{{ product.categorie }}</span>
+                                            <h5><a href="{% url 'app:view' product.slug %}">{{ product.title|capfirst }}</a></h5>
+                                            <div class="product__item__price"> {{ product.promotions }} $<span>{{ product.prix }} $</span></div>
+                                        </div>
+                                    </div>
+                                </div> 
+                            {% endfor %}
+                                
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="filter__item">
+                    <div class="row">
+                        <div class="col-lg-4 col-md-5">
+                            <div class="filter__sort">
+                                <!-- <span>Résultats du filtre</span> -->
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4">
+                            <div class="filter__found">
+                                <!-- <h6><span>16</span> Produits trouvés</h6> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    
+                    {% for product in products_list %}
+                        <div class="col-lg-4 col-md-6 col-sm-6">
+                            <div class="product__item">
+                                <div class="product__item__pic set-bg" data-setbg="{{ product.img.url }}">
+                                    <ul class="product__item__pic__hover">
+                                        <li><a href="#"><i class="fa fa-heart"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-retweet"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-shopping-cart"></i></a></li>
+                                    </ul>
+                                </div>
+                                <div class="product__item__text">
+                                    <h6><a href="{% url 'app:view' product.slug %}">{{ product.title | capfirst}}</a></h6>
+                                    <h5>{{ product.prix }}</h5>
+                                </div>
+                            </div>
+                        </div>
+                    {% endfor %}
+                </div>
+                <div class="product__pagination">
+                    <!-- <a href="#">1</a>
+                    <a href="#">2</a>
+                    <a href="#">3</a>
+                    <a href="#"><i class="fa fa-long-arrow-right"></i></a> -->
+
+                    <div class="product__pagination">
+                        {% if products_list.has_previous %}
+                            <a href="#"><i class="fa fa-long-arrow-left"></i></a>
+                        {% endif %}
+                            <a href="#">{{ products_list.number }}</a>
+                        {% if products_list.has_next %}
+                            <a href="#"><i class="fa fa-long-arrow-right"></i></a>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Product Section End -->
+
+{% endblock content %}

@@ -1,0 +1,159 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}Accueil{% endblock title %} 
+
+
+{% block content %}
+
+<section>
+    <div class="search__bar">
+        <div class="search__bar__layouts">
+            <h2>Plateforme d'achats des <span>Sites Web</span>, <span>Logiciels</span>, <span>Applications Mobiles</span> et <span>Applications Web</span> !</h2>
+            <div class="search__bar__search">
+                <form action="">
+                    <input type="text" name="q" placeholder="Faites votre recherche ici...">
+                    <button type="submit"><span class="icon_search"></span></button>
+                </form>
+            </div>
+        </div>
+    </div> 
+</section>
+
+{% if query %}
+    {% if results %}
+        <!-- Blog Section Begin -->
+        <section class="from-blog spad" style="background: #F3F6FB; margin-bottom: 30px;">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="section-title from-blog__title">
+                            <h2>Résultats de votre recherche</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    {% for item in results %}
+                        <div class="col-lg-4 col-md-4 col-sm-6">
+                            <div class="blog__item">
+                                <div class="blog__item__pic">
+                                    <img src="{{ item.img.url }}" alt="{{ item.title }}">
+                                </div>
+                                <div class="blog__item__text">
+                                    <ul>
+                                        <h5><a href="{% url 'app:view' item.slug %}">{{ item.title|capfirst }}</a></h5>
+                                        <li><i class="fa fa-money"></i> {{ item.prix }} $</li>
+                                        <li>
+                                            <div class="product__details__rating">
+                                                <i class="fa fa-star"></i>
+                                                <i class="fa fa-star"></i>
+                                                <i class="fa fa-star"></i>
+                                                <i class="fa fa-star"></i>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                    <p>{{ item.resume }}</p>
+                                </div>
+                            </div>
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </section>
+<!-- Blog Section End -->
+    {% else %}
+        <section class="from-blog spad" style="background: #F3F6FB; margin-bottom: 30px;">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <p>😒😒😒 Désolé, votre recherche ne donne rien. Essayer autre chose</p>
+                </div>
+            </div>
+        </section>
+    {% endif %}
+{% endif %}
+
+<!-- Categories Section Begin -->
+<section class="categories">
+    <div class="container">
+        <div class="row">
+            <div class="categories__slider owl-carousel">
+                
+                {% for product in product_slide %}
+                    <div class="col-lg-3">
+                        <div class="categories__item set-bg" data-setbg="{{ product.img.url }}">
+                            <h5><a href="{% url 'app:view' product.slug %}">{{ product.title|capfirst }}</a></h5>
+                        </div>
+                    </div>
+                {% endfor %}
+
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Categories Section End -->
+
+<!-- Banner Begin -->
+<div class="banner spad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-6">
+                <div class="banner__pic">
+                    <img src="{% static 'img/banner/banner-1.jpg' %}" alt="fastsmart">
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-6">
+                <div class="banner__pic">
+                    <img src="{% static 'img/banner/banner-2.jpg' %}" alt="fastsmart">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Banner End -->
+
+<!-- Featured Section Begin -->
+<section class="featured spad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="section-title">
+                    <h2>Nos Produits</h2>
+                </div>
+                <div class="featured__controls">
+                    <ul>
+                        <li class="active" data-filter="*">All</li>
+                        <li data-filter=".WEBSITE">Sites Web</li>
+                        <li data-filter=".SOFTWARE">Logiciels</li>
+                        <li data-filter=".MOBILE">Applications Mobiles</li>
+                        <li data-filter=".WEBAPP">Applications Web</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="row featured__filter">
+            
+            {% for product in product_list %}
+                <div class="col-lg-3 col-md-4 col-sm-6 mix {{ product.categorie }}">
+                    <div class="featured__item">
+                        <div class="featured__item__pic set-bg" data-setbg="{{ product.img.url }}">
+                            <ul class="featured__item__pic__hover">
+                                <li><a href="#"><i class="fa fa-heart"></i></a></li>
+                                <li><a href="#"><i class="fa fa-retweet"></i></a></li>
+                                <li><a href="#"><i class="fa fa-shopping-cart"></i></a></li>
+                            </ul>
+                        </div>
+                        <div class="featured__item__text">
+                            <h6><a href="{% url 'app:view' product.slug %}">{{ product.title |capfirst }}</a></h6>
+                            <h5>{{ product.prix }} $</h5>
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+
+        </div>
+    </div>
+</section>
+<!-- Featured Section End -->
+
+    
+{% endblock content %}

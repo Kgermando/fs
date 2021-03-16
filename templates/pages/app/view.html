@@ -58,22 +58,25 @@
                             {{product.resume}}
                         </p>
                         <div class="product__details__quantity">
-                            <div class="quantity">
-                                <div class="pro-qty">
-                                    <input type="text" value="1">
-                                </div>
-                            </div>
+                            <a href="#" class="info-btn"><i class="fa fa-eye" aria-hidden="true"></i>{{product.page_views}}</a>
                         </div>
+                        
                         <a href="#" class="primary-btn"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i></a>
-                        <a href="#" class="heart-icon"><span class="icon_heart_alt"></span></a>
+
+                        
+                        <a href="#" class="heart-icon"><i class="fa fa-heart" aria-hidden="true"></i></a>
+                        <a href="#" class="heart-icon"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
+                        
+                      
                         <ul>
                             <li><b>Categorie</b> <span>{{product.categorie}}</span></li>
                             <li><b>Secteur</b> <span>{{product.Mot_cles}}</span></li>
                             <li><b>Themes</b> <span>{{product.themes}}</span></li>
                             <li><b>Test</b> <span><a href="http://{{product.url_test}}" target="_blank" rel="noopener noreferrer">{{product.url_test}}</a> </span></li>
                             <li><b>Ajouter le</b> <span>{{product.created|date}}</span></li>
+                            <li><b>Nombre des vues</b> <span>{{product.page_views}}</span></li>
                             <li><b>Partagez</b>
-                                <div class="share">
+                                <div class="share"> 
                                     <a href="#"><i class="fa fa-facebook"></i></a>
                                     <a href="#"><i class="fa fa-twitter"></i></a>
                                     <a href="#"><i class="fa fa-instagram"></i></a>

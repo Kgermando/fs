@@ -25,7 +25,7 @@ class Product(models.Model):
     Mot_cles    = models.ForeignKey(MotCles, on_delete=models.CASCADE, null=True, blank=True)
     themes      = models.ForeignKey(Theme, on_delete=models.CASCADE, null=True, blank=True)
     url_test    = models.CharField(max_length=100, null=True, blank=True)
-    page_views  = models.IntegerField(default=0) # nombre des vues par page
+    page_views  = models.IntegerField(default=0, verbose_name='Nombre des vues') # nombre des vues par page
     created     = models.DateTimeField(auto_now=False)
 
     def __str__(self):

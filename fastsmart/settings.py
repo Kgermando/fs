@@ -49,7 +49,7 @@ INSTALLED_APPS = [
     'categorie',
     'handlers',
     'projets',
-]
+] 
 
 SITE_ID = 1
 
@@ -173,3 +173,6 @@ EMAIL_HOST_USER = '@qq.com'
 EMAIL_HOST_PASSWORD = ''
 EMAIL_USE_TLS = True
 EMAIL_FROM = '@qq.com'
+
+
+LOGIN_REDIRECT_URL = '/'

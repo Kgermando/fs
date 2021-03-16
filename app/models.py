@@ -1,4 +1,5 @@
 from django.db import models
+from django.contrib.auth.models import User
 from django.db.models.signals import pre_save
 from tinymce import HTMLField
 
@@ -18,7 +19,7 @@ class Product(models.Model):
     prix        = models.IntegerField()
     # quantity    = models.IntegerField(default=1, null=True)
     rate        = models.IntegerField(null=True, blank=True)
-    preference  = models.BooleanField(default=False, null=True, help_text='Favoris')
+    # liked       = models.BooleanField(default=False, null=True, help_text='Favoris')
     promotion   = models.IntegerField(null=True, help_text='Pourcentage de la promotion')
     promos      = models.BooleanField(default=False, null=True)
     categorie   = models.ForeignKey(Category, on_delete=models.CASCADE, null=True, blank=True)
@@ -55,6 +56,24 @@ class ContactForm(models.Model):
 
     def __str__(self):
         return self.name
+
+
+class Like(models.Model):
+    user = models.ForeignKey(User, on_delete = models.CASCADE)
+    product = models.ForeignKey(Product, on_delete = models.CASCADE)
+    like = models.BooleanField(default=False)
+
+    def __str__(self):
+        return self.product.title + ' ' + self.user.username
+
+
+def if_liked(request,id):
+    is_liked = Like.objects.filter(product=id).filter(user=request.user)
+    if is_liked:
+        return True
+    else:
+        return False    
+
 
 def tag_pre_save_receiver(sender, instance, *args, **kwargs):
     if not instance.slug:

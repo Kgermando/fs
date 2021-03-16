@@ -26,11 +26,19 @@ def categorie(request, product_slug=None):
     except EmptyPage:
         products_list = paginator.page(paginator.num_pages)
 
+    if 'add_cart' in request.COOKIES:
+        add_cart = request.COOKIES['add_cart']
+        counter = add_cart.split('|')
+        product_count_in_cart = len(set(counter))
+    else:
+        product_count_in_cart = 0
+
     context = {
         'category': category,
         'category_list': category_list,
         'products_list': products_list,
         'product_promos': product_promos,
+        'product_count_in_cart':product_count_in_cart
     }
     template_name = 'pages/categorie/categorie.html'
     return render(request, template_name, context)

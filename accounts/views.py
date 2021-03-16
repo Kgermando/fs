@@ -2,6 +2,8 @@ from django.shortcuts import render, redirect
 from django.contrib import messages, auth
 from django.contrib.auth.models import User
 
+from accounts.models import Profile
+
 # Create your views here.
 def login_view(request):
     if request.method == 'POST':
@@ -70,3 +72,59 @@ def logout_view(request):
 
 
 
+def profile(request):
+    profile = Profile.objects.get(user=request.user)
+
+    # if request.method=='POST':
+    # try:
+    #     profile=Profile.objects.get(user=request.user)
+    # except:
+    #     profile=Profile()
+    #     profile.user=request.user
+    
+    # profile.profile_picture=request.FILES['photo']
+    # profile.save()
+    # post=Post()
+    # post.body=request.POST['status']
+    # post.user=request.user
+    # post.storytype=" updated profile picture "
+    # post.save()
+    # postimage=PostImage()
+    # postimage.url=profile.profile_picture
+    # postimage.post=post
+    # postimage.save()
+    # add_user_to_post(post,request.user)
+    # returndata={
+    #     "imageid":postimage.id,
+    #     "id":post.id,
+    #     "name":request.user.first_name+" "+request.user.last_name,
+    #     "date":post.date,
+    #     "picture":str(postimage.url),
+    #     "status":post.body
+    # }
+    # return JsonResponse(returndata)
+
+
+    context = None
+    template_name='pages/accounts/profile.html'
+    return render(request, template_name, context)
+
+
+# def profile(request):
+#     #user = User.objects.all()[2]
+#     #context = {'user': user}
+#     user = request.user
+#     likes = Like.objects.filter(uid=user.id).distinct()
+#     rnames = []
+#     for l in likes:
+#       r = Restaurant.objects.get(id = l.rid)
+#       rnames.append(r)
+#     context = {'u': user, 'res_names': rnames}
+#     return render(request, 'profile.html', context)
+
+# @login_required
+# def add_like(request, rid):
+#     user = request.user
+#     l = Like(uid=user.id, rid=rid)
+#     l.save()
+#     return HttpResponseRedirect('/profile')

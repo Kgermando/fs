@@ -1,5 +1,222 @@
 [
     {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
         "label": "admin",
         "importPath": "django.contrib",
         "description": "django.contrib",
@@ -48,7 +265,7 @@
         "documentation": {}
     },
     {
-        "label": "admin",
+        "label": "messages",
         "importPath": "django.contrib",
         "description": "django.contrib",
         "isExtraImport": true,
@@ -80,11 +297,11 @@
         "documentation": {}
     },
     {
-        "label": "AppConfig",
-        "importPath": "django.apps",
-        "description": "django.apps",
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
         "isExtraImport": true,
-        "detail": "django.apps",
+        "detail": "django.contrib",
         "documentation": {}
     },
     {
@@ -128,83 +345,51 @@
         "documentation": {}
     },
     {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
         "isExtraImport": true,
-        "detail": "django.db",
+        "detail": "django.apps",
         "documentation": {}
     },
     {
-        "label": "migrations",
-        "importPath": "django.db",
-        "description": "django.db",
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
         "isExtraImport": true,
-        "detail": "django.db",
+        "detail": "django.contrib.auth.models",
         "documentation": {}
     },
     {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
         "isExtraImport": true,
-        "detail": "django.db",
+        "detail": "django.contrib.auth.models",
         "documentation": {}
     },
     {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
         "isExtraImport": true,
-        "detail": "django.db",
+        "detail": "django.contrib.auth.models",
         "documentation": {}
     },
     {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
         "isExtraImport": true,
-        "detail": "django.db",
+        "detail": "django.contrib.auth.models",
         "documentation": {}
     },
     {
-        "label": "migrations",
-        "importPath": "django.db",
-        "description": "django.db",
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
         "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {}
-    },
-    {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {}
-    },
-    {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {}
-    },
-    {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {}
-    },
-    {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
+        "detail": "django.contrib.auth.models",
         "documentation": {}
     },
     {
@@ -273,6 +458,14 @@
     },
     {
         "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
         "importPath": "django.urls",
         "description": "django.urls",
         "isExtraImport": true,
@@ -360,6 +553,30 @@
         "documentation": {}
     },
     {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
         "label": "get_object_or_404",
         "importPath": "django.shortcuts",
         "description": "django.shortcuts",
@@ -392,6 +609,22 @@
         "documentation": {}
     },
     {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
         "label": "render",
         "importPath": "django.shortcuts",
         "description": "django.shortcuts",
@@ -424,20 +657,11 @@
         "documentation": {}
     },
     {
-        "label": "User",
-        "importPath": "django.contrib.auth.models",
-        "description": "django.contrib.auth.models",
+        "label": "Profile",
+        "importPath": "accounts.models",
+        "description": "accounts.models",
         "isExtraImport": true,
-        "detail": "django.contrib.auth.models",
-        "documentation": {}
-    },
-    {
-        "label": "django.db.models.deletion",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "django.db.models.deletion",
-        "description": "django.db.models.deletion",
-        "detail": "django.db.models.deletion",
+        "detail": "accounts.models",
         "documentation": {}
     },
     {
@@ -466,6 +690,30 @@
         "documentation": {}
     },
     {
+        "label": "Like",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Like",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
         "label": "Product",
         "importPath": "app.models",
         "description": "app.models",
@@ -482,11 +730,123 @@
         "documentation": {}
     },
     {
+        "label": "Like",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
         "label": "Product",
         "importPath": "app.models",
         "description": "app.models",
         "isExtraImport": true,
         "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponseRedirect",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponseRedirect",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "user_passes_test",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
         "documentation": {}
     },
     {
@@ -626,27 +986,19 @@
         "documentation": {}
     },
     {
+        "label": "like",
+        "importPath": "app.apiviews",
+        "description": "app.apiviews",
+        "isExtraImport": true,
+        "detail": "app.apiviews",
+        "documentation": {}
+    },
+    {
         "label": "Q",
         "importPath": "django.db.models",
         "description": "django.db.models",
         "isExtraImport": true,
         "detail": "django.db.models",
-        "documentation": {}
-    },
-    {
-        "label": "HttpResponseRedirect",
-        "importPath": "django.http",
-        "description": "django.http",
-        "isExtraImport": true,
-        "detail": "django.http",
-        "documentation": {}
-    },
-    {
-        "label": "HttpResponse",
-        "importPath": "django.http",
-        "description": "django.http",
-        "isExtraImport": true,
-        "detail": "django.http",
         "documentation": {}
     },
     {
@@ -658,43 +1010,27 @@
         "documentation": {}
     },
     {
-        "label": "login_required",
-        "importPath": "django.contrib.auth.decorators",
-        "description": "django.contrib.auth.decorators",
+        "label": "Cart",
+        "importPath": "cart.models",
+        "description": "cart.models",
         "isExtraImport": true,
-        "detail": "django.contrib.auth.decorators",
+        "detail": "cart.models",
         "documentation": {}
     },
     {
-        "label": "user_passes_test",
-        "importPath": "django.contrib.auth.decorators",
-        "description": "django.contrib.auth.decorators",
+        "label": "Cart",
+        "importPath": "cart.models",
+        "description": "cart.models",
         "isExtraImport": true,
-        "detail": "django.contrib.auth.decorators",
+        "detail": "cart.models",
         "documentation": {}
     },
     {
-        "label": "login_required",
-        "importPath": "django.contrib.auth.decorators",
-        "description": "django.contrib.auth.decorators",
+        "label": "Decimal",
+        "importPath": "decimal",
+        "description": "decimal",
         "isExtraImport": true,
-        "detail": "django.contrib.auth.decorators",
-        "documentation": {}
-    },
-    {
-        "label": "settings",
-        "importPath": "django.conf",
-        "description": "django.conf",
-        "isExtraImport": true,
-        "detail": "django.conf",
-        "documentation": {}
-    },
-    {
-        "label": "settings",
-        "importPath": "django.conf",
-        "description": "django.conf",
-        "isExtraImport": true,
-        "detail": "django.conf",
+        "detail": "decimal",
         "documentation": {}
     },
     {
@@ -703,6 +1039,70 @@
         "description": "cart.views",
         "isExtraImport": true,
         "detail": "cart.views",
+        "documentation": {}
+    },
+    {
+        "label": "delete_cart",
+        "importPath": "cart.views",
+        "description": "cart.views",
+        "isExtraImport": true,
+        "detail": "cart.views",
+        "documentation": {}
+    },
+    {
+        "label": "add_to_cart",
+        "importPath": "cart.views",
+        "description": "cart.views",
+        "isExtraImport": true,
+        "detail": "cart.views",
+        "documentation": {}
+    },
+    {
+        "label": "Paginator",
+        "importPath": "django.core.paginator",
+        "description": "django.core.paginator",
+        "isExtraImport": true,
+        "detail": "django.core.paginator",
+        "documentation": {}
+    },
+    {
+        "label": "EmptyPage",
+        "importPath": "django.core.paginator",
+        "description": "django.core.paginator",
+        "isExtraImport": true,
+        "detail": "django.core.paginator",
+        "documentation": {}
+    },
+    {
+        "label": "PageNotAnInteger",
+        "importPath": "django.core.paginator",
+        "description": "django.core.paginator",
+        "isExtraImport": true,
+        "detail": "django.core.paginator",
+        "documentation": {}
+    },
+    {
+        "label": "EmptyPage",
+        "importPath": "django.core.paginator",
+        "description": "django.core.paginator",
+        "isExtraImport": true,
+        "detail": "django.core.paginator",
+        "documentation": {}
+    },
+    {
+        "label": "PageNotAnInteger",
+        "importPath": "django.core.paginator",
+        "description": "django.core.paginator",
+        "isExtraImport": true,
+        "detail": "django.core.paginator",
+        "documentation": {}
+    },
+    {
+        "label": "Paginator",
+        "importPath": "django.core.paginator",
+        "description": "django.core.paginator",
+        "isExtraImport": true,
+        "detail": "django.core.paginator",
         "documentation": {}
     },
     {
@@ -743,30 +1143,6 @@
         "description": "fastsmart.constant",
         "isExtraImport": true,
         "detail": "fastsmart.constant",
-        "documentation": {}
-    },
-    {
-        "label": "EmptyPage",
-        "importPath": "django.core.paginator",
-        "description": "django.core.paginator",
-        "isExtraImport": true,
-        "detail": "django.core.paginator",
-        "documentation": {}
-    },
-    {
-        "label": "PageNotAnInteger",
-        "importPath": "django.core.paginator",
-        "description": "django.core.paginator",
-        "isExtraImport": true,
-        "detail": "django.core.paginator",
-        "documentation": {}
-    },
-    {
-        "label": "Paginator",
-        "importPath": "django.core.paginator",
-        "description": "django.core.paginator",
-        "isExtraImport": true,
-        "detail": "django.core.paginator",
         "documentation": {}
     },
     {
@@ -930,6 +1306,24 @@
         "documentation": {}
     },
     {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "accounts.migrations.0001_initial",
+        "description": "accounts.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Prodile',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n            ],",
+        "detail": "accounts.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "accounts.migrations.0002_auto_20210316_0311",
+        "description": "accounts.migrations.0002_auto_20210316_0311",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('accounts', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Profile',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "accounts.migrations.0002_auto_20210316_0311",
+        "documentation": {}
+    },
+    {
         "label": "admin.site.site_header",
         "kind": 5,
         "importPath": "accounts.admin",
@@ -954,6 +1348,15 @@
         "description": "accounts.apps",
         "peekOfCode": "class AccountsConfig(AppConfig):\n    name = 'accounts'",
         "detail": "accounts.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Profile",
+        "kind": 6,
+        "importPath": "accounts.models",
+        "description": "accounts.models",
+        "peekOfCode": "class Profile(models.Model):\n    profile_picture = models.ImageField(upload_to = 'user-profile/',default='avatar.svg')\n    user = models.OneToOneField(User, on_delete = models.CASCADE,null=True)\n    age = models.IntegerField(null=True)\n    job = models.CharField(max_length = 100,null=True)\n    bio = models.TextField(null=True)\n    address = models.CharField(max_length = 100,null=True)\n    contack_no = models.IntegerField(null=True)",
+        "detail": "accounts.models",
         "documentation": {}
     },
     {
@@ -988,7 +1391,16 @@
         "kind": 2,
         "importPath": "accounts.views",
         "description": "accounts.views",
-        "peekOfCode": "def logout_view(request):\n    if request.method == 'GET':\n        auth.logout(request)\n        messages.success(request, \"Vous êtes déconnecté.\")\n        return redirect('login')\n    else:\n        return redirect('app:home')",
+        "peekOfCode": "def logout_view(request):\n    if request.method == 'GET':\n        auth.logout(request)\n        messages.success(request, \"Vous êtes déconnecté.\")\n        return redirect('login')\n    else:\n        return redirect('app:home')\ndef profile(request):\n    profile = Profile.objects.get(user=request.user)\n    # if request.method=='POST':",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "profile",
+        "kind": 2,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "def profile(request):\n    profile = Profile.objects.get(user=request.user)\n    # if request.method=='POST':\n    # try:\n    #     profile=Profile.objects.get(user=request.user)\n    # except:\n    #     profile=Profile()\n    #     profile.user=request.user\n    # profile.profile_picture=request.FILES['photo']\n    # profile.save()",
         "detail": "accounts.views",
         "documentation": {}
     },
@@ -999,6 +1411,60 @@
         "description": "app.migrations.0001_initial",
         "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('categorie', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='ContactForm',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
         "detail": "app.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "app.migrations.0002_auto_20210316_0301",
+        "description": "app.migrations.0002_auto_20210316_0301",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('app', '0001_initial'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='product',\n            name='preference',\n        ),",
+        "detail": "app.migrations.0002_auto_20210316_0301",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "app.migrations.0003_auto_20210316_0311",
+        "description": "app.migrations.0003_auto_20210316_0311",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('app', '0002_auto_20210316_0301'),\n    ]\n    operations = [\n        migrations.RenameModel(\n            old_name='Preference',\n            new_name='Like',\n        ),",
+        "detail": "app.migrations.0003_auto_20210316_0311",
+        "documentation": {}
+    },
+    {
+        "label": "admin.site.site_header",
+        "kind": 5,
+        "importPath": "app.admin",
+        "description": "app.admin",
+        "peekOfCode": "admin.site.site_header = 'FASTSMART'\nadmin.site.site_title = \"Interface d'administration\"\n# Register your models here.\nadmin.site.register(Product)\nadmin.site.register(ContactForm)\nadmin.site.register(Like)",
+        "detail": "app.admin",
+        "documentation": {}
+    },
+    {
+        "label": "admin.site.site_title",
+        "kind": 5,
+        "importPath": "app.admin",
+        "description": "app.admin",
+        "peekOfCode": "admin.site.site_title = \"Interface d'administration\"\n# Register your models here.\nadmin.site.register(Product)\nadmin.site.register(ContactForm)\nadmin.site.register(Like)",
+        "detail": "app.admin",
+        "documentation": {}
+    },
+    {
+        "label": "like",
+        "kind": 2,
+        "importPath": "app.apiviews",
+        "description": "app.apiviews",
+        "peekOfCode": "def like(request,id):\n    if request.is_ajax:\n        if request.method == 'POST':\n            product=Product.objects.get(id= id)\n            like=Like.objects.filter(product=product).filter(user=request.user)\n            if like:\n                like.delete()\n                count=Like.objects.filter(product=product).count()\n                truth='True'\n                is_liked='Like'",
+        "detail": "app.apiviews",
+        "documentation": {}
+    },
+    {
+        "label": "get_notification",
+        "kind": 2,
+        "importPath": "app.apiviews",
+        "description": "app.apiviews",
+        "peekOfCode": "def get_notification(request):\n    notifications=get_last_ten(request.user.id)\n    context = {\"notifications\":notifications}\n    template_name = \"pages/notifications/notification.html\"\n    return render(request, template_name, context)",
+        "detail": "app.apiviews",
         "documentation": {}
     },
     {
@@ -1024,7 +1490,25 @@
         "kind": 6,
         "importPath": "app.models",
         "description": "app.models",
-        "peekOfCode": "class ContactForm(models.Model):\n    name    = models.CharField(max_length=50)\n    email   = models.EmailField()\n    message = models.TextField()\n    def __str__(self):\n        return self.name\ndef tag_pre_save_receiver(sender, instance, *args, **kwargs):\n    if not instance.slug:\n        instance.slug = unique_slug_generator(instance)\npre_save.connect(tag_pre_save_receiver, sender=Product)",
+        "peekOfCode": "class ContactForm(models.Model):\n    name    = models.CharField(max_length=50)\n    email   = models.EmailField()\n    message = models.TextField()\n    def __str__(self):\n        return self.name\nclass Like(models.Model):\n    user = models.ForeignKey(User, on_delete = models.CASCADE)\n    product = models.ForeignKey(Product, on_delete = models.CASCADE)\n    like = models.BooleanField(default=False)",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Like",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class Like(models.Model):\n    user = models.ForeignKey(User, on_delete = models.CASCADE)\n    product = models.ForeignKey(Product, on_delete = models.CASCADE)\n    like = models.BooleanField(default=False)\n    def __str__(self):\n        return self.product.title + ' ' + self.user.username\ndef if_liked(request,id):\n    is_liked = Like.objects.filter(product=id).filter(user=request.user)\n    if is_liked:\n        return True",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "if_liked",
+        "kind": 2,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "def if_liked(request,id):\n    is_liked = Like.objects.filter(product=id).filter(user=request.user)\n    if is_liked:\n        return True\n    else:\n        return False    \ndef tag_pre_save_receiver(sender, instance, *args, **kwargs):\n    if not instance.slug:\n        instance.slug = unique_slug_generator(instance)\npre_save.connect(tag_pre_save_receiver, sender=Product)",
         "detail": "app.models",
         "documentation": {}
     },
@@ -1042,7 +1526,7 @@
         "kind": 5,
         "importPath": "app.urls",
         "description": "app.urls",
-        "peekOfCode": "app_name = 'app'\nurlpatterns = [\n    path('', index, name=\"home\"),\n    path('product/<slug:slug>/', view, name=\"view\"),\n    path('product/<int:id>/', view, name=\"search-view\"),\n    path('contact/', contact, name=\"contact\"),\n]",
+        "peekOfCode": "app_name = 'app'\nurlpatterns = [\n    path('', index, name=\"home\"),\n    path('product/<slug:slug>/', view, name=\"view\"),\n    path('product/<int:id>/', view, name=\"search-view\"),\n    path('contact/', contact, name=\"contact\"),\n    path('product/like/<int:id>/', like),\n]",
         "detail": "app.urls",
         "documentation": {}
     },
@@ -1051,7 +1535,7 @@
         "kind": 5,
         "importPath": "app.urls",
         "description": "app.urls",
-        "peekOfCode": "urlpatterns = [\n    path('', index, name=\"home\"),\n    path('product/<slug:slug>/', view, name=\"view\"),\n    path('product/<int:id>/', view, name=\"search-view\"),\n    path('contact/', contact, name=\"contact\"),\n]",
+        "peekOfCode": "urlpatterns = [\n    path('', index, name=\"home\"),\n    path('product/<slug:slug>/', view, name=\"view\"),\n    path('product/<int:id>/', view, name=\"search-view\"),\n    path('contact/', contact, name=\"contact\"),\n    path('product/like/<int:id>/', like),\n]",
         "detail": "app.urls",
         "documentation": {}
     },
@@ -1069,7 +1553,7 @@
         "kind": 2,
         "importPath": "app.views",
         "description": "app.views",
-        "peekOfCode": "def view(request, slug):\n    \"\"\"\n        Search detail\n    \"\"\"\n    product = get_object_or_404(Product, slug=slug)\n    product_list = Product.objects.all().order_by('-created')[:3]\n    product.page_views = product.page_views + 1\n    product.save()\n    context = {\n        'product': product,",
+        "peekOfCode": "def view(request, slug):\n    \"\"\"\n        Search detail\n    \"\"\"\n    if 'add_cart' in request.COOKIES:\n        add_cart = request.COOKIES['add_cart']\n        counter = add_cart.split('|')\n        product_count_in_cart = len(set(counter))\n    else:\n        product_count_in_cart = 0",
         "detail": "app.views",
         "documentation": {}
     },
@@ -1078,8 +1562,35 @@
         "kind": 2,
         "importPath": "app.views",
         "description": "app.views",
-        "peekOfCode": "def contact(request):\n    if  request.method == 'POST':\n        name = request.POST['name']\n        email = request.POST['email']\n        message = request.POST['message']\n        contact_us = ContactForm(name=name,email=email,message=message)\n        contact_us.save()\n        messages.success(request,'! Nous avons réçu votre message')\n        return redirect('app:contact')\n    context = None",
+        "peekOfCode": "def contact(request):\n    if 'add_cart' in request.COOKIES:\n        add_cart = request.COOKIES['add_cart']\n        counter = add_cart.split('|')\n        product_count_in_cart = len(set(counter))\n    else:\n        product_count_in_cart = 0\n    if  request.method == 'POST':\n        name = request.POST['name']\n        email = request.POST['email']",
         "detail": "app.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "cart.migrations.0001_initial",
+        "description": "cart.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('app', '0003_auto_20210316_0311'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Cart',\n            fields=[",
+        "detail": "cart.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "admin.site.site_header",
+        "kind": 5,
+        "importPath": "cart.admin",
+        "description": "cart.admin",
+        "peekOfCode": "admin.site.site_header = 'FASTSMART'\nadmin.site.site_title = \"Interface d'administration\"\n# Register your models here.\nadmin.site.register(Cart)",
+        "detail": "cart.admin",
+        "documentation": {}
+    },
+    {
+        "label": "admin.site.site_title",
+        "kind": 5,
+        "importPath": "cart.admin",
+        "description": "cart.admin",
+        "peekOfCode": "admin.site.site_title = \"Interface d'administration\"\n# Register your models here.\nadmin.site.register(Cart)",
+        "detail": "cart.admin",
         "documentation": {}
     },
     {
@@ -1092,11 +1603,29 @@
         "documentation": {}
     },
     {
+        "label": "Cart",
+        "kind": 6,
+        "importPath": "cart.cart",
+        "description": "cart.cart",
+        "peekOfCode": "class Cart(object):\n    def __init__(self, request):\n        \"\"\"\n        Initialize the cart.\n        \"\"\"\n        self.session = request.session\n        cart = self.session.get(settings.CART_SESSION_ID)\n        if not cart:\n            # save an empty cart in the session\n            cart = self.session[settings.CART_SESSION_ID] = {}",
+        "detail": "cart.cart",
+        "documentation": {}
+    },
+    {
+        "label": "Cart",
+        "kind": 6,
+        "importPath": "cart.models",
+        "description": "cart.models",
+        "peekOfCode": "class Cart(models.Model):\n    user = models.ForeignKey(User, on_delete=models.CASCADE, null=True, blank=True)\n    products = models.ForeignKey(Product, on_delete=models.CASCADE, blank=True)\n    created = models.DateTimeField(auto_now=True)\n    def __str__(self):\n        return self.user.username + ' ' + self.products.title\n    def total(self):\n        return self.products.prix * 16 / 100",
+        "detail": "cart.models",
+        "documentation": {}
+    },
+    {
         "label": "app_name",
         "kind": 5,
         "importPath": "cart.urls",
         "description": "cart.urls",
-        "peekOfCode": "app_name = 'cart'\nurlpatterns = [\n    path('', cart, name='cart'),\n]",
+        "peekOfCode": "app_name = 'cart'\nurlpatterns = [\n    path('cart/<int:pk>/', cart, name='cart'),\n    path('cart/<int:pk>/delete', delete_cart, name='delete_cart'),\n    path('cart/add_to_cart/<int:pk>', add_to_cart, name='add_to_cart'),\n]",
         "detail": "cart.urls",
         "documentation": {}
     },
@@ -1105,7 +1634,7 @@
         "kind": 5,
         "importPath": "cart.urls",
         "description": "cart.urls",
-        "peekOfCode": "urlpatterns = [\n    path('', cart, name='cart'),\n]",
+        "peekOfCode": "urlpatterns = [\n    path('cart/<int:pk>/', cart, name='cart'),\n    path('cart/<int:pk>/delete', delete_cart, name='delete_cart'),\n    path('cart/add_to_cart/<int:pk>', add_to_cart, name='add_to_cart'),\n]",
         "detail": "cart.urls",
         "documentation": {}
     },
@@ -1114,7 +1643,25 @@
         "kind": 2,
         "importPath": "cart.views",
         "description": "cart.views",
-        "peekOfCode": "def cart(request):\n    context = {}\n    template_name = 'pages/cart/cart.html'\n    return render(request, template_name, context)",
+        "peekOfCode": "def cart(request, pk):\n    user = User.objects.get(pk=pk)\n    cart = Cart.objects.filter(user=user)\n    cart_n = Cart.objects.filter(user=user).count()\n    total = 0\n    paginator = Paginator(cart, 10)\n    page = request.GET.get('page')\n    try:\n        cart = paginator.page(page)\n    except PageNotAnInteger:",
+        "detail": "cart.views",
+        "documentation": {}
+    },
+    {
+        "label": "delete_cart",
+        "kind": 2,
+        "importPath": "cart.views",
+        "description": "cart.views",
+        "peekOfCode": "def delete_cart(request, pk):\n    user = request.user\n    cart = Cart.objects.filter(user=user)\n    if request.method == 'POST':\n        # pk = int(request.POST.get('product'))\n        prod = int(request.POST.get('prod'))\n        product = Product.objects.get(pk=prod)\n        for i in cart:\n            if i.products == product:\n                product = Product.objects.filter(pk=pk)",
+        "detail": "cart.views",
+        "documentation": {}
+    },
+    {
+        "label": "add_to_cart",
+        "kind": 2,
+        "importPath": "cart.views",
+        "description": "cart.views",
+        "peekOfCode": "def add_to_cart(request, pk):\n    product = Product.objects.get(pk=pk)\n    user = request.user\n    cart = Cart.objects.filter(user=user)\n        # for cart counter, fetching products ids added by customer from cookies\n    if 'add_cart' in request.COOKIES:\n        add_cart = request.COOKIES['add_cart']\n        counter=add_cart.split('|')\n        product_count_in_cart=len(set(counter))\n    else:",
         "detail": "cart.views",
         "documentation": {}
     },
@@ -1125,6 +1672,24 @@
         "description": "categorie.migrations.0001_initial",
         "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Category',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(choices=[('WEBSITE', 'WEBSITE'), ('SOFTWARE', 'SOFTWARE'), ('MOBILE', 'MOBILE'), ('WEBAPP', 'WEBAPP')], max_length=8)),",
         "detail": "categorie.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "admin.site.site_header",
+        "kind": 5,
+        "importPath": "categorie.admin",
+        "description": "categorie.admin",
+        "peekOfCode": "admin.site.site_header = 'FASTSMART'\nadmin.site.site_title = \"Interface d'administration\"\n# Register your models here.\nadmin.site.register(Category)\nadmin.site.register(MotCles)\nadmin.site.register(Theme)",
+        "detail": "categorie.admin",
+        "documentation": {}
+    },
+    {
+        "label": "admin.site.site_title",
+        "kind": 5,
+        "importPath": "categorie.admin",
+        "description": "categorie.admin",
+        "peekOfCode": "admin.site.site_title = \"Interface d'administration\"\n# Register your models here.\nadmin.site.register(Category)\nadmin.site.register(MotCles)\nadmin.site.register(Theme)",
+        "detail": "categorie.admin",
         "documentation": {}
     },
     {
@@ -1438,7 +2003,7 @@
         "kind": 5,
         "importPath": "fastsmart.settings",
         "description": "fastsmart.settings",
-        "peekOfCode": "MEDIA_ROOT = os.path.join(BASE_DIR, 'media-root')\n# Email\nEMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'\nEMAIL_HOST = 'smtp.qq.com'\nEMAIL_PORT = 25\nEMAIL_HOST_USER = '@qq.com'\nEMAIL_HOST_PASSWORD = ''\nEMAIL_USE_TLS = True\nEMAIL_FROM = '@qq.com'",
+        "peekOfCode": "MEDIA_ROOT = os.path.join(BASE_DIR, 'media-root')\n# Email\nEMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'\nEMAIL_HOST = 'smtp.qq.com'\nEMAIL_PORT = 25\nEMAIL_HOST_USER = '@qq.com'\nEMAIL_HOST_PASSWORD = ''\nEMAIL_USE_TLS = True\nEMAIL_FROM = '@qq.com'\nLOGIN_REDIRECT_URL = '/'",
         "detail": "fastsmart.settings",
         "documentation": {}
     },
@@ -1447,7 +2012,7 @@
         "kind": 5,
         "importPath": "fastsmart.settings",
         "description": "fastsmart.settings",
-        "peekOfCode": "EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'\nEMAIL_HOST = 'smtp.qq.com'\nEMAIL_PORT = 25\nEMAIL_HOST_USER = '@qq.com'\nEMAIL_HOST_PASSWORD = ''\nEMAIL_USE_TLS = True\nEMAIL_FROM = '@qq.com'",
+        "peekOfCode": "EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'\nEMAIL_HOST = 'smtp.qq.com'\nEMAIL_PORT = 25\nEMAIL_HOST_USER = '@qq.com'\nEMAIL_HOST_PASSWORD = ''\nEMAIL_USE_TLS = True\nEMAIL_FROM = '@qq.com'\nLOGIN_REDIRECT_URL = '/'",
         "detail": "fastsmart.settings",
         "documentation": {}
     },
@@ -1456,7 +2021,7 @@
         "kind": 5,
         "importPath": "fastsmart.settings",
         "description": "fastsmart.settings",
-        "peekOfCode": "EMAIL_HOST = 'smtp.qq.com'\nEMAIL_PORT = 25\nEMAIL_HOST_USER = '@qq.com'\nEMAIL_HOST_PASSWORD = ''\nEMAIL_USE_TLS = True\nEMAIL_FROM = '@qq.com'",
+        "peekOfCode": "EMAIL_HOST = 'smtp.qq.com'\nEMAIL_PORT = 25\nEMAIL_HOST_USER = '@qq.com'\nEMAIL_HOST_PASSWORD = ''\nEMAIL_USE_TLS = True\nEMAIL_FROM = '@qq.com'\nLOGIN_REDIRECT_URL = '/'",
         "detail": "fastsmart.settings",
         "documentation": {}
     },
@@ -1465,7 +2030,7 @@
         "kind": 5,
         "importPath": "fastsmart.settings",
         "description": "fastsmart.settings",
-        "peekOfCode": "EMAIL_PORT = 25\nEMAIL_HOST_USER = '@qq.com'\nEMAIL_HOST_PASSWORD = ''\nEMAIL_USE_TLS = True\nEMAIL_FROM = '@qq.com'",
+        "peekOfCode": "EMAIL_PORT = 25\nEMAIL_HOST_USER = '@qq.com'\nEMAIL_HOST_PASSWORD = ''\nEMAIL_USE_TLS = True\nEMAIL_FROM = '@qq.com'\nLOGIN_REDIRECT_URL = '/'",
         "detail": "fastsmart.settings",
         "documentation": {}
     },
@@ -1474,7 +2039,7 @@
         "kind": 5,
         "importPath": "fastsmart.settings",
         "description": "fastsmart.settings",
-        "peekOfCode": "EMAIL_HOST_USER = '@qq.com'\nEMAIL_HOST_PASSWORD = ''\nEMAIL_USE_TLS = True\nEMAIL_FROM = '@qq.com'",
+        "peekOfCode": "EMAIL_HOST_USER = '@qq.com'\nEMAIL_HOST_PASSWORD = ''\nEMAIL_USE_TLS = True\nEMAIL_FROM = '@qq.com'\nLOGIN_REDIRECT_URL = '/'",
         "detail": "fastsmart.settings",
         "documentation": {}
     },
@@ -1483,7 +2048,7 @@
         "kind": 5,
         "importPath": "fastsmart.settings",
         "description": "fastsmart.settings",
-        "peekOfCode": "EMAIL_HOST_PASSWORD = ''\nEMAIL_USE_TLS = True\nEMAIL_FROM = '@qq.com'",
+        "peekOfCode": "EMAIL_HOST_PASSWORD = ''\nEMAIL_USE_TLS = True\nEMAIL_FROM = '@qq.com'\nLOGIN_REDIRECT_URL = '/'",
         "detail": "fastsmart.settings",
         "documentation": {}
     },
@@ -1492,7 +2057,7 @@
         "kind": 5,
         "importPath": "fastsmart.settings",
         "description": "fastsmart.settings",
-        "peekOfCode": "EMAIL_USE_TLS = True\nEMAIL_FROM = '@qq.com'",
+        "peekOfCode": "EMAIL_USE_TLS = True\nEMAIL_FROM = '@qq.com'\nLOGIN_REDIRECT_URL = '/'",
         "detail": "fastsmart.settings",
         "documentation": {}
     },
@@ -1501,7 +2066,16 @@
         "kind": 5,
         "importPath": "fastsmart.settings",
         "description": "fastsmart.settings",
-        "peekOfCode": "EMAIL_FROM = '@qq.com'",
+        "peekOfCode": "EMAIL_FROM = '@qq.com'\nLOGIN_REDIRECT_URL = '/'",
+        "detail": "fastsmart.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOGIN_REDIRECT_URL",
+        "kind": 5,
+        "importPath": "fastsmart.settings",
+        "description": "fastsmart.settings",
+        "peekOfCode": "LOGIN_REDIRECT_URL = '/'",
         "detail": "fastsmart.settings",
         "documentation": {}
     },
@@ -1668,6 +2242,24 @@
         "documentation": {}
     },
     {
+        "label": "admin.site.site_header",
+        "kind": 5,
+        "importPath": "projets.admin",
+        "description": "projets.admin",
+        "peekOfCode": "admin.site.site_header = 'FASTSMART'\nadmin.site.site_title = \"Interface d'administration\"\n# Register your models here.",
+        "detail": "projets.admin",
+        "documentation": {}
+    },
+    {
+        "label": "admin.site.site_title",
+        "kind": 5,
+        "importPath": "projets.admin",
+        "description": "projets.admin",
+        "peekOfCode": "admin.site.site_title = \"Interface d'administration\"\n# Register your models here.",
+        "detail": "projets.admin",
+        "documentation": {}
+    },
+    {
         "label": "ProjetsConfig",
         "kind": 6,
         "importPath": "projets.apps",
@@ -1699,7 +2291,7 @@
         "kind": 2,
         "importPath": "projets.views",
         "description": "projets.views",
-        "peekOfCode": "def projets(request):\n    context = {}\n    template_name = 'pages/projets/projets.html'\n    return render(request, template_name, context)",
+        "peekOfCode": "def projets(request):\n    if 'add_cart' in request.COOKIES:\n        add_cart = request.COOKIES['add_cart']\n        counter = add_cart.split('|')\n        product_count_in_cart = len(set(counter))\n    else:\n        product_count_in_cart = 0\n    context = {\n        'product_count_in_cart':product_count_in_cart\n    }",
         "detail": "projets.views",
         "documentation": {}
     },
